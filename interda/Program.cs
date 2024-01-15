@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 
 //hola chao
+//hasta luego
 namespace interda
 {
     internal static class Program
